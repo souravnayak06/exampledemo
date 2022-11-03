@@ -3,3 +3,5 @@
 3.Eat
 4.Code
 5.Test
+6.Ride
+7.swim
